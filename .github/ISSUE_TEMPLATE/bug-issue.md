@@ -3,7 +3,7 @@ name: bug issue
 about: 用于提交BUG
 title: BUG
 labels: ''
-assignees: chuangzaoh666
+assignees: ''
 
 ---
 
