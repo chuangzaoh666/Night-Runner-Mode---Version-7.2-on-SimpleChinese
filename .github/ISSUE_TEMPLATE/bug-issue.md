@@ -1,7 +1,7 @@
 ---
 name: bug issue
 about: 用于提交BUG
-title: BUG
+title: ''
 labels: ''
 assignees: ''
 
