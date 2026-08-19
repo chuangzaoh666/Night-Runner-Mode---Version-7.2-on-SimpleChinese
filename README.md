@@ -1,6 +1,17 @@
 # Night-Runner-Mode---Version-7.2-on-SimpleChinese
 这是一个通过AI翻译的MOD本地化配置文件，目前还在早期测试，有特别多的bug
 
+## 宣传图
+![宣传图 1](/.github/images/picture_1.jpg)
+![宣传图 2](/.github/images/picture_2.jpg)
+![宣传图 3](/.github/images/picture_3.jpg)
+![宣传图 4](/.github/images/picture_4.jpg)
+![宣传图 5](/.github/images/picture_5.jpg)
+![宣传图 6](/.github/images/picture_6.jpg)
+![宣传图 7](/.github/images/picture_7.jpg)
+![宣传图 8](/.github/images/picture_8.jpg)
+![宣传图 9](/.github/images/picture_9.jpg)
+
 ## 构建
 > 如需自行将汉化文本放入MOD内，需要准备游戏使用的.bin文件提取器，下载链接如下
 > https://www.nexusmods.com/dyinglight/mods/268?tab=description
