@@ -13,6 +13,8 @@
 ![宣传图 9](/.github/images/picture_9.jpg)
 
 ## 构建
+> [!WARNING]
+> **不建议用 `DyingLightBIN.exe` 回包**：它不反转义 `\"` 且行数识别依赖 CRLF，会导致游戏在某些菜单闪退(见issue)
 > 如需自行将汉化文本放入MOD内，需要准备游戏使用的.bin文件提取器，下载链接如下
 > https://www.nexusmods.com/dyinglight/mods/268?tab=description
 
